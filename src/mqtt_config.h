@@ -3,7 +3,7 @@
  * 
  * IMPORTANTE: Modifica questo file con le tue credenziali prima di compilare!
  * 
- * Autore: ESP32-MQTT Guide
+ * Autore: Christian Schito
  * Versione: 1.0.0
  */
 
