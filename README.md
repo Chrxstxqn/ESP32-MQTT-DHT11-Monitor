@@ -336,12 +336,6 @@ GROUP BY time(5m)
 
 Questo progetto è rilasciato sotto licenza MIT. Vedi il file [LICENSE](LICENSE) per i dettagli.
 
-## 🙋‍♂️ Supporto
-
-- 📧 **Email**: [tuo-email@example.com]
-- 🐛 **Issues**: [GitHub Issues](https://github.com/TuoUsername/ESP32-MQTT-DHT11-Monitor/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/TuoUsername/ESP32-MQTT-DHT11-Monitor/discussions)
-
 ## 🔗 Link Utili
 
 - [Documentazione ESP32](https://docs.espressif.com/projects/esp32/en/latest/)
@@ -354,4 +348,4 @@ Questo progetto è rilasciato sotto licenza MIT. Vedi il file [LICENSE](LICENSE)
 
 **⭐ Se questo progetto ti è stato utile, lascia una stella su GitHub!**
 
-Made with ❤️ for the IoT community
+Made with ❤️ by Chrxstxqn
