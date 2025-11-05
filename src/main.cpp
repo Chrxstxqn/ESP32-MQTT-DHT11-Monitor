@@ -5,7 +5,7 @@
  * e umidità utilizzando un sensore DHT11 collegato a un ESP32, con
  * pubblicazione dei dati tramite protocollo MQTT.
  * 
- * Autore: ESP32-MQTT Guide
+ * Autore: Christian Schito
  * Versione: 1.0.0
  * Data: November 2024
  * 
