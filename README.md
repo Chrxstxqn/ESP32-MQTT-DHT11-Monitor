@@ -348,4 +348,8 @@ Questo progetto è rilasciato sotto licenza MIT. Vedi il file [LICENSE](LICENSE)
 
 **⭐ Se questo progetto ti è stato utile, lascia una stella su GitHub!**
 
-Made with ❤️ by Chrxstxqn
+---
+
+**Autore**: Christian Schito  
+**Scuola**: IISS Enrico Mattei (5°A Informatica)  
+**Anno**: 2025
